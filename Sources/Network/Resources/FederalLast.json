@@ -1,0 +1,44 @@
+{  
+   "nome":"FEDERAL",
+   "numero_concurso":5403,
+   "data_concurso":"2019-07-06T00:00:00-03:00",
+   "data_concurso_milliseconds":1562382000000,
+   "local_realizacao":"SAO PAULO, SP",
+   "rateio_processamento":false,
+   "premiacao":[  
+      {  
+         "nome":"1\u00ba Pr\u00eamio",
+         "bilhete":"22061",
+         "valor_total":500000,
+         "faixa":1
+      },
+      {  
+         "nome":"2\u00ba Pr\u00eamio",
+         "bilhete":"73556",
+         "valor_total":27000,
+         "faixa":2
+      },
+      {  
+         "nome":"3\u00ba Pr\u00eamio",
+         "bilhete":"1709",
+         "valor_total":24000,
+         "faixa":3
+      },
+      {  
+         "nome":"4\u00ba Pr\u00eamio",
+         "bilhete":"41013",
+         "valor_total":19000,
+         "faixa":4
+      },
+      {  
+         "nome":"5\u00ba Pr\u00eamio",
+         "bilhete":"82320",
+         "valor_total":18329,
+         "faixa":5
+      }
+   ],
+   "data_proximo_concurso":"2019-07-10T00:00:00-03:00",
+   "data_proximo_concurso_milliseconds":1562727600000,
+   "valor_estimado_proximo_concurso":500000,
+   "concurso_proximo" : 5404
+}
