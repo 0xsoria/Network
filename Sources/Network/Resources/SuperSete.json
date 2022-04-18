@@ -1,0 +1,58 @@
+{
+    "nome": "SUPER SETE",
+    "numero_concurso": 231,
+    "data_concurso": "2022-04-13T00:00:00-03:00",
+    "data_concurso_milliseconds": 1649818800000,
+    "local_realizacao": "SAO PAULO, SP",
+    "rateio_processamento": false,
+    "acumulou": true,
+    "valor_acumulado": 338715.51,
+    "dezenas": [
+        "4",
+        "4",
+        "8",
+        "2",
+        "8",
+        "0",
+        "7"
+    ],
+    "premiacao": [
+        {
+            "nome": "7 Acertos",
+            "quantidade_ganhadores": 0,
+            "valor_total": 0,
+            "acertos": 7
+        },
+        {
+            "nome": "6 Acertos",
+            "quantidade_ganhadores": 1,
+            "valor_total": 30563.66,
+            "acertos": 6
+        },
+        {
+            "nome": "5 Acertos",
+            "quantidade_ganhadores": 40,
+            "valor_total": 1091.55,
+            "acertos": 5
+        },
+        {
+            "nome": "4 Acertos",
+            "quantidade_ganhadores": 669,
+            "valor_total": 65.26,
+            "acertos": 4
+        },
+        {
+            "nome": "3 Acertos",
+            "quantidade_ganhadores": 6587,
+            "valor_total": 5,
+            "acertos": 3
+        }
+    ],
+    "local_ganhadores": [],
+    "arrecadacao_total": 747445,
+    "concurso_proximo": 232,
+    "data_proximo_concurso": "2022-04-18T00:00:00-03:00",
+    "data_proximo_concurso_milliseconds": 1650250800000,
+    "valor_estimado_proximo_concurso": 500000,
+    "concurso_especial": false
+}
