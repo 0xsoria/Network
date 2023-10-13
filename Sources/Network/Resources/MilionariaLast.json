@@ -1,0 +1,94 @@
+{
+“nome”:”+MILION\u00c1RIA”,
+“numero_concurso”:1,
+“data_concurso”:”2022-05-28T00:00:00-03:00″,
+“data_concurso_milliseconds”:1653706800000,
+“local_realizacao”:”SAO PAULO, SP”,
+“rateio_processamento”:false,
+“acumulou”:true,
+“dezenas”:[
+“01”,
+“02”,
+“03”,
+“04”,
+“07”,
+“15”,
+“23”,
+“44”
+],
+“trevosSorteados”:[
+4,
+2
+],
+“premiacao”:[
+{
+“faixa”:1,
+“nome”:”6 acertos + 2 trevos”,
+“quantidade_ganhadores”:0,
+“valor_total”:0
+},
+{
+“faixa”:2,
+“nome”:”6 acertos + 1 ou nenhum trevo”,
+“quantidade_ganhadores”:1,
+“valor_total”:392567.53
+},
+{
+“faixa”:3,
+“nome”:”5 acertos + 2 trevos”,
+“quantidade_ganhadores”:6,
+“valor_total”:52342.34
+},
+{
+“faixa”:4,
+“nome”:”5 acertos + 1 ou nenhum trevo”,
+“quantidade_ganhadores”:80,
+“valor_total”:3925.67
+},
+{
+“faixa”:5,
+“nome”:”4 acertos + 2 trevos”,
+“quantidade_ganhadores”:227,
+“valor_total”:1482.31
+},
+{
+“faixa”:6,
+“nome”:”4 acertos + 1 ou nenhum trevo”,
+“quantidade_ganhadores”:3501,
+“valor_total”:96.11
+},
+{
+“faixa”:7,
+“nome”:”3 acertos + 2 trevos”,
+“quantidade_ganhadores”:4725,
+“valor_total”:50
+},
+{
+“faixa”:8,
+“nome”:”3 acertos + 1 trevo”,
+“quantidade_ganhadores”:34159,
+“valor_total”:24
+},
+{
+“faixa”:9,
+“nome”:”2 acertos + 2 trevos”,
+“quantidade_ganhadores”:33671,
+“valor_total”:12
+},
+{
+“faixa”:10,
+“nome”:”2 acertos + 1 trevo”,
+“quantidade_ganhadores”:243056,
+“valor_total”:6
+}
+],
+“local_ganhadores”:[
+
+],
+“arrecadacao_total”:20704332,
+“concurso_proximo”:2,
+“data_proximo_concurso”:”2022-06-04T00:00:00-03:00″,
+“data_proximo_concurso_milliseconds”:1654311600000,
+“valor_estimado_proximo_concurso”:10000000,
+“concurso_especial”:false
+}

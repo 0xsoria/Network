@@ -1,188 +1,228 @@
 {
-    "nome": "LOTECA",
-    "numero_concurso": 1043,
-    "data_concurso": "2023-04-10T00:00:00-03:00",
-    "data_concurso_milliseconds": 1681095600000,
-    "rateio_processamento": false,
-    "jogos": [
-        {
-            "nome_time1": "FLUMINENSE",
-            "nome_time2": "FLAMENGO",
-            "gol_time1": 4,
-            "gol_time2": 1,
-            "dia_semana": "Domingo",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 1
-        },
-        {
-            "nome_time1": "LAZIO",
-            "nome_time2": "JUVENTUS",
-            "gol_time1": 2,
-            "gol_time2": 1,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 2
-        },
-        {
-            "nome_time1": "BOTAFOGO",
-            "nome_time2": "AUDAX",
-            "gol_time1": 5,
-            "gol_time2": 2,
-            "dia_semana": "Domingo",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 3
-        },
-        {
-            "nome_time1": "NICE",
-            "nome_time2": "PSG",
-            "gol_time1": 0,
-            "gol_time2": 2,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": false,
-            "coluna_dois": true,
-            "coluna_meio": false,
-            "jogo": 4
-        },
-        {
-            "nome_time1": "CRB",
-            "nome_time2": "ASA",
-            "gol_time1": 1,
-            "gol_time2": 0,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 5
-        },
-        {
-            "nome_time1": "CEARA",
-            "nome_time2": "FORTALEZA",
-            "gol_time1": 2,
-            "gol_time2": 2,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": false,
-            "coluna_dois": false,
-            "coluna_meio": true,
-            "jogo": 6
-        },
-        {
-            "nome_time1": "GREMIO",
-            "nome_time2": "CAXIAS",
-            "gol_time1": 1,
-            "gol_time2": 0,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 7
-        },
-        {
-            "nome_time1": "ATLETICO",
-            "nome_time2": "AMERICA",
-            "gol_time1": 2,
-            "gol_time2": 0,
-            "dia_semana": "Domingo",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 8
-        },
-        {
-            "nome_time1": "BRUSQUE",
-            "nome_time2": "CRICIUMA",
-            "gol_time1": 0,
-            "gol_time2": 1,
-            "dia_semana": "S\u00c3\u00a1bado",
-            "coluna_um": false,
-            "coluna_dois": true,
-            "coluna_meio": false,
-            "jogo": 9
-        },
-        {
-            "nome_time1": "LIVERPOOL",
-            "nome_time2": "ARSENAL",
-            "gol_time1": 2,
-            "gol_time2": 2,
-            "dia_semana": "Domingo",
-            "coluna_um": false,
-            "coluna_dois": false,
-            "coluna_meio": true,
-            "jogo": 10
-        },
-        {
-            "nome_time1": "PALMEIRAS",
-            "nome_time2": "AGUA SANTA",
-            "gol_time1": 4,
-            "gol_time2": 0,
-            "dia_semana": "Domingo",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 11
-        },
-        {
-            "nome_time1": "GOIAS",
-            "nome_time2": "ATLETICO",
-            "gol_time1": 3,
-            "gol_time2": 1,
-            "dia_semana": "Domingo",
-            "coluna_um": true,
-            "coluna_dois": false,
-            "coluna_meio": false,
-            "jogo": 12
-        },
-        {
-            "nome_time1": "REMO",
-            "nome_time2": "PAYSANDU",
-            "gol_time1": 0,
-            "gol_time2": 1,
-            "dia_semana": "Domingo",
-            "coluna_um": false,
-            "coluna_dois": true,
-            "coluna_meio": false,
-            "jogo": 13
-        },
-        {
-            "nome_time1": "ATHLETICO",
-            "nome_time2": "CASCAVEL",
-            "gol_time1": 0,
-            "gol_time2": 0,
-            "dia_semana": "Domingo",
-            "coluna_um": false,
-            "coluna_dois": false,
-            "coluna_meio": true,
-            "jogo": 14
-        }
-    ],
-    "acumulou": false,
-    "valor_acumulado": 0,
-    "premiacao": [
-        {
-            "acertos": 14,
-            "nome": "1º (14 acertos)",
-            "quantidade_ganhadores": 3,
-            "valor_total": 105456.15
-        },
-        {
-            "acertos": 13,
-            "nome": "2º (13 acertos)",
-            "quantidade_ganhadores": 56,
-            "valor_total": 1304.59
-        }
-    ],
-    "local_ganhadores": [],
-    "arrecadacao_total": 1294995,
-    "concurso_proximo": 1044,
-    "data_proximo_concurso": "2023-04-11T00:00:00-03:00",
-    "data_proximo_concurso_milliseconds": 1681182000000,
-    "valor_estimado_proximo_concurso": 200000,
-    "valor_final_concurso_acumulado": 0,
-    "numero_final_concurso_acumulado": 5,
-    "concurso_especial": false
+   "nome":"LOTECA",
+   "numero_concurso":858,
+   "data_concurso":"2019-06-25T00:00:00-03:00",
+   "data_concurso_milliseconds":1561431600000,
+   "rateio_processamento":false,
+   "jogos":[
+      {
+         "nome_time1":"PERU",
+         "nome_time2":"BRASIL",
+         "gol_time1":0,
+         "gol_time2":5,
+         "dia_semana":"S\u00e1bado",
+         "coluna_um":false,
+         "coluna_dois":true,
+         "coluna_meio":false,
+         "jogo":1
+      },
+      {
+         "nome_time1":"BOL\u00cdVIA",
+         "nome_time2":"VENEZUELA",
+         "gol_time1":1,
+         "gol_time2":3,
+         "dia_semana":"S\u00e1bado",
+         "coluna_um":false,
+         "coluna_dois":true,
+         "coluna_meio":false,
+         "jogo":2
+      },
+      {
+         "nome_time1":"COL\u00d4MBIA",
+         "nome_time2":"PARAGUAI",
+         "gol_time1":1,
+         "gol_time2":0,
+         "dia_semana":"Domingo",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":3
+      },
+      {
+         "nome_time1":"QATAR",
+         "nome_time2":"ARGENTINA",
+         "gol_time1":0,
+         "gol_time2":2,
+         "dia_semana":"Domingo",
+         "coluna_um":false,
+         "coluna_dois":true,
+         "coluna_meio":false,
+         "jogo":4
+      },
+      {
+         "nome_time1":"CHILE",
+         "nome_time2":"URUGUAI",
+         "gol_time1":0,
+         "gol_time2":1,
+         "dia_semana":"Segunda-feira",
+         "coluna_um":false,
+         "coluna_dois":true,
+         "coluna_meio":false,
+         "jogo":5
+      },
+      {
+         "nome_time1":"EQUADOR",
+         "nome_time2":"JAP\u00c3O",
+         "gol_time1":1,
+         "gol_time2":1,
+         "dia_semana":"Segunda-feira",
+         "coluna_um":false,
+         "coluna_dois":false,
+         "coluna_meio":true,
+         "jogo":6
+      },
+      {
+         "nome_time1":"SANTA CRUZ\/PE",
+         "nome_time2":"N\u00c1UTICO\/PE",
+         "gol_time1":1,
+         "gol_time2":0,
+         "dia_semana":"S\u00e1bado",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":7
+      },
+      {
+         "nome_time1":"TOMBENSE\/MG",
+         "nome_time2":"BOA ESPORTE\/MG",
+         "gol_time1":3,
+         "gol_time2":1,
+         "dia_semana":"S\u00e1bado",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":8
+      },
+      {
+         "nome_time1":"CONFIAN\u00c7A\/SE",
+         "nome_time2":"FERROVI\u00c1RIO\/CE",
+         "gol_time1":1,
+         "gol_time2":0,
+         "dia_semana":"Domingo",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":9
+      },
+      {
+         "nome_time1":"LUVERDENSE\/MT",
+         "nome_time2":"ACREANO\/AC",
+         "gol_time1":4,
+         "gol_time2":0,
+         "dia_semana":"Domingo",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":10
+      },
+      {
+         "nome_time1":"VOLTA REDONDA\/RJ",
+         "nome_time2":"S\u00c3O JOS\u00c9\/RS",
+         "gol_time1":2,
+         "gol_time2":2,
+         "dia_semana":"Domingo",
+         "coluna_um":false,
+         "coluna_dois":false,
+         "coluna_meio":true,
+         "jogo":11
+      },
+      {
+         "nome_time1":"BOTAFOGO\/PB",
+         "nome_time2":"TREZE\/PB",
+         "gol_time1":4,
+         "gol_time2":2,
+         "dia_semana":"Segunda-feira",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":12
+      },
+      {
+         "nome_time1":"ITABAIANA\/SE",
+         "nome_time2":"ASA\/AL",
+         "gol_time1":4,
+         "gol_time2":1,
+         "dia_semana":"S\u00e1bado",
+         "coluna_um":true,
+         "coluna_dois":false,
+         "coluna_meio":false,
+         "jogo":13
+      },
+      {
+         "nome_time1":"BRASILIENSE\/DF",
+         "nome_time2":"VIT\u00d3RIA\/ES",
+         "gol_time1":1,
+         "gol_time2":2,
+         "dia_semana":"Domingo",
+         "coluna_um":false,
+         "coluna_dois":true,
+         "coluna_meio":false,
+         "jogo":14
+      }
+   ],
+   "acumulou":false,
+   "premiacao":[
+      {
+         "nome":"15 Acertos",
+         "quantidade_ganhadores":10,
+         "valor_total":28726.67,
+         "acertos":15
+      },
+      {
+         "nome":"14 Acertos",
+         "quantidade_ganhadores":369,
+         "valor_total":238.31,
+         "acertos":14
+      }
+   ],
+   "local_ganhadores":[
+      {
+         "local":"BELO HORIZONTE\/MG",
+         "cidade":"BELO HORIZONTE",
+         "uf":"MG",
+         "quantidade_ganhadores":1,
+         "canal_eletronico":false
+      },
+      {
+         "local":"CURITIBA\/PR",
+         "cidade":"CURITIBA",
+         "uf":"PR",
+         "quantidade_ganhadores":1,
+         "canal_eletronico":false
+      },
+      {
+         "local":"BALNE\u00c1RIO CAMBORI\u00da\/SC",
+         "cidade":"BALNE\u00c1RIO CAMBORI\u00da",
+         "uf":"SC",
+         "quantidade_ganhadores":1,
+         "canal_eletronico":false
+      },
+      {
+         "local":"RIO CLARO\/SP",
+         "cidade":"RIO CLARO",
+         "uf":"SP",
+         "quantidade_ganhadores":1,
+         "canal_eletronico":false
+      },
+      {
+         "local":"S\u00c3O PAULO\/SP",
+         "cidade":"S\u00c3O PAULO",
+         "uf":"SP",
+         "quantidade_ganhadores":3,
+         "canal_eletronico":false
+      },
+      {
+         "local":"Canal Eletr\u00f4nico",
+         "cidade":"",
+         "uf":"",
+         "quantidade_ganhadores":3,
+         "canal_eletronico":true
+      }
+   ],
+   "arrecadacao_total":1558881,
+   "data_proximo_concurso":"2019-07-15T00:00:00-03:00",
+   "data_proximo_concurso_milliseconds":1563159600000,
+   "valor_estimado_proximo_concurso":400000,
+   "valor_final_concurso_acumulado":377226.79,
+   "numero_final_concurso_acumulado":0
 }
